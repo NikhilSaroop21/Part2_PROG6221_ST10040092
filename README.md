@@ -23,24 +23,24 @@ To add a touch of fun to your cooking experience, your assistant comes with colo
  How to Get Cooking with Your Assistant
 
  7. Step-by-Step Guide
-1. Open Your Assistant**: Fire up the application in your favorite IDE and get ready to cook up a storm!
-2. Access Your Recipes**: Clone the repository from GitHub or download the zip file to access your assistant's features and resources.
-3. Run the Application**: Open the project in your IDE and hit play to start using your assistant.
-4. Navigate the Menu**: Explore the menu options displayed on the screen and choose what you'd like to do next.
-5. Select Your Actions**: Whether it's entering recipe details, adjusting quantities, or exploring recipes, your assistant has you covered.
-6. Follow the Prompts**: Your assistant will guide you every step of the way with clear instructions and helpful tips.
-7. Enjoy Cooking**: With your assistant by your side, cooking becomes a joyous experience. Explore new recipes, experiment with flavors, and savor every moment in the kitchen!
+1. Open Your Assistant: Fire up the application in your favorite IDE and get ready to cook up a storm!
+2. Access Your Recipes: Clone the repository from GitHub or download the zip file to access your assistant's features and resources.
+3. Run the Application: Open the project in your IDE and hit play to start using your assistant.
+4. Navigate the Menu: Explore the menu options displayed on the screen and choose what you'd like to do next.
+5. Select Your Actions: Whether it's entering recipe details, adjusting quantities, or exploring recipes, your assistant has you covered.
+6. Follow the Prompts: Your assistant will guide you every step of the way with clear instructions and helpful tips.
+7. Enjoy Cooking: With your assistant by your side, cooking becomes a joyous experience. Explore new recipes, experiment with flavors, and savor every moment in the kitchen!
 
  What's New in Part 2?
 
  Updates and Enhancements
 In Part 2, your assistant gets even better with exciting updates and enhancements:
-- Unlimited Recipe Entry**: Create as many recipes as you like – there's no limit to your culinary creativity!
-- Custom Recipe Names**: Personalize your recipes with unique names for easy identification.
-- Alphabetical Recipe Listing**: Find your recipes in a snap with alphabetical sorting.
-- Expanded Ingredient Details**: Get more information about your ingredients, including calorie count and food group classification.
-- Total Calorie Calculation**: Know the nutritional value of your recipes at a glance with total calorie calculation.
-- Calorie Exceedance Notification**: Stay informed about calorie limits with notifications when a recipe exceeds 300 calories.
+- Unlimited Recipe Entry: Create as many recipes as you like – there's no limit to your culinary creativity!
+- Custom Recipe Names: Personalize your recipes with unique names for easy identification.
+- Alphabetical Recipe Listing: Find your recipes in a snap with alphabetical sorting.
+- Expanded Ingredient Details: Get more information about your ingredients, including calorie count and food group classification.
+- Total Calorie Calculation: Know the nutritional value of your recipes at a glance with total calorie calculation.
+- Calorie Exceedance Notification: Stay informed about calorie limits with notifications when a recipe exceeds 300 calories.
 
  Conclusion
 
